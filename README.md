@@ -1,6 +1,6 @@
 # 2023.Q3-PLN
 
-## ATIVIDADE PRÁTICA 02 [Tutorial sobre uma API]
+## ATIVIDADE PRÁTICA 03 [Tutorial sobre uma API]
 
 ### Grupo
 - 👨‍💻 **Aluno 1**: João Pedro Balceiro Rodrigues - RA: 11201811336
